@@ -1,6 +1,6 @@
 # Applied Programing Systems syllabus
 
-* **Course:** [Applied Programming system, 2014 - 2015)
+* **Course:** [Applied Programming system, 2014 - 2015, Technological School of Electronic Systems, Sofia)
 * **Instructor:** Dimitar Nikolov, [email](mailto:dimitar.nikolov.tues@gmail.com)
 * **Need help?**
    * Look through and create [issues](https://github.com/ppstues/syllabus/issues)
@@ -12,4 +12,10 @@ In this course you will learn best practices in Matlab/Octave and basic introduc
 
 Computers are provided in the lab, though you are encouraged to bring a laptop for in-class exercises.
 
+## Prerequisites
+
+* Understanding of variables, data types, control flow, and basic function usage
+* Strong mathmatical skills and ability to identify patterns or links between seemingly unrelated issues
+
+These won't be enforced by the instructor, but you will be pretty lost without understanding those concepts.
 
