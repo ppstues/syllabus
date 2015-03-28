@@ -35,3 +35,30 @@ All assignments are listed within the [Course Outline](#course-outline).
 1. You can continue to push fixes and improvements until the close date (listed in Classes) – just add a comment in the pull request to let me know it's been updated.
 
 Feedback will be given in the pull request, so please respond with your thoughts and questions! You are welcome to open the pull request as the work is still in-progress if you are stuck and want to ask a question – just mention `@nikolovd` with the question to make sure I know to look at it sooner.
+
+## Course Outline 
+
+to be completed
+
+## Resources
+
+### Recommended Reading
+
+to be completed
+
+### Tools
+
+to be completed
+
+#### GitHub
+
+* Git and GitHub
+    * [Official GitHub Help](https://help.github.com/)
+    * [Recommended resources](https://help.github.com/articles/what-are-other-good-resources-for-learning-git-and-github)
+* GitHub Pages
+    * [Official site](http://pages.github.com/)
+    * [Thinkful guide](http://www.thinkful.com/learn/a-guide-to-using-github-pages/)
+
+## Terms of use and licence 
+
+Please respect the terms of use and/or license of any code you find, and if duplicate an algorithm or code from elsewhere, credit the original source with an inline comment.
