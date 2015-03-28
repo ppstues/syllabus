@@ -59,6 +59,6 @@ to be completed
     * [Official site](http://pages.github.com/)
     * [Thinkful guide](http://www.thinkful.com/learn/a-guide-to-using-github-pages/)
 
-## Terms of use and licence 
+## Notes
 
 Please respect the terms of use and/or license of any code you find, and if duplicate an algorithm or code from elsewhere, credit the original source with an inline comment.
