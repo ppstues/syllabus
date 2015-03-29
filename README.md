@@ -1,6 +1,6 @@
-# Syllabus for Applied Mathematical Programing
+# Syllabus for Applied Programing Systems
 
-* **Course:** Applied Programming system 
+* **Course:** Applied Programming Systems
 * **Year:** 2014 - 2015
 * **School:** Technological School of Electronic Systems, Sofia
 * **Instructor:** Dimitar Nikolov, [email](mailto:dimitar.nikolov.tues@gmail.com)
