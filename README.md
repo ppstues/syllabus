@@ -1,4 +1,4 @@
-# Applied Programing Systems syllabus
+# Syllabus for Applied Mathematical Programing
 
 * **Course:** [Applied Programming system, 2014 - 2015, Technological School of Electronic Systems, Sofia)
 * **Instructor:** Dimitar Nikolov, [email](mailto:dimitar.nikolov.tues@gmail.com)
@@ -25,7 +25,7 @@ All assignments are listed within the [Course Outline](#course-outline).
 
 ### Workflow
 
-1. Fork the repository for the exercise/project (found under [github.com/ppstues](https://github.com/ppstues))
+1. Fork the specific homework repository (found under [github.com/ppstues](https://github.com/ppstues))
 1. Clone the repository to your computer
 1. Create and/or modify the files to complete your solution
 1. Check your solution if matches the required exercise 
